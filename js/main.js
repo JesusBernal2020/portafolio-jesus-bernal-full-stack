@@ -211,7 +211,7 @@ contactForm.addEventListener('submit', sendEmail)
 /*type js */
 
 const typed = new Typed(".multiple-text", {
-  strings: ['Desarrollador Full Stack', 'Desarrollador Front-End', 'Desarrollador Back-End', 'Desarrollador FreeLancer'],
+  strings: ['Desarrollador Full Stack', 'Desarrollador Front-End', 'Desarrollador Back-End'],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
